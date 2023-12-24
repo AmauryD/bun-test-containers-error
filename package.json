@@ -1,0 +1,14 @@
+{
+  "name": "bun-test-containers-error",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "testcontainers": "^10.4.0"
+  }
+}
